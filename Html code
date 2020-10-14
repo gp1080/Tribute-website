@@ -1,0 +1,38 @@
+<main id="main">
+  <h1 id="title">Homero Gómez González</h1>
+  <p>El hombre que protegió a la mariposa monarca.</p>
+  <figure id="img-div">
+    <img
+      id="image"
+      src="https://ichef.bbci.co.uk/news/640/cpsprodpb/13F60/production/_110706718_homero_gomez_549x549.jpg"   
+         
+      alt="Homero Gómez González con los brazos extendidos hacia arriba delante de una figura gigante de una mariposa monarca"
+    />
+    <figcaption id="img-caption">
+      Homero Gómez González fue un ingeniero agrónomo y un activista medioambiental mexicano. Fue el director de una reserva de naturaleza para mariposas monarca en Ocampo, Michoacán.
+    </figcaption>
+  </figure>
+  <section id="tribute-info">
+    <h3 id="headline">Carrera, desaparición y muerte:</h3>
+    
+     
+      <p>
+        <h4><strong>Carrera:</strong></h4> Homero Gómez González provenía de una familia de la industria maderera y fue leñador antes de convertirse en un activista medioambiental. Dirigía una reserva de naturaleza para mariposas monarca en Ocampo, Michoacán, La Reserva de Mariposas Monarca de Rosario, y era el portavoz para esta reserva. Era conocido como el activista en favor de las mariposas más prominente de México.
+     
+     
+        <h4><strong>Desaparición y muerte:</strong></h4> González fue visto vivo por última vez el 13 de enero de 2020 atendiendo una reunión en el pueblo de El Soldado. Su familia lo reportó como desaparecido al día siguiente. Recibieron llamadas de teléfono de individuos que dijeron tenerlo secuestrado, pidiendo pagos de rescate, los cuales la activista de derechos humanos Mayte Cardona dijo la familia pagó. Más de dos semanas después de su desaparición, su cuerpo fue encontrado en un pozo de uso agrícola en el estado de Michoacán, presentaba un traumatismo craneoencefálico que se produjo antes de producirse la muerte por ahogamiento. Había denunciado en diferentes ocasiones la tala ilegal de los bosques, hábitat de las mariposas Monarca. Debido a su trabajo en contra de la tala ilegal de árboles, la Fiscalía del estado de Michoacán informó que Homero Gómez pudo ser asesinado por la delincuencia organizada.
+      </p>
+     
+      
+   
+   <footer> <h3>
+      para más información, vea también
+      <a
+        id="tribute-link"
+        href="https://es.wikipedia.org/wiki/Homero_G%C3%B3mez_Gonz%C3%A1lez"
+        target="_blank"
+        >la pagina de Wikipedia</a
+      >.
+    </h3>
+  </section>
+</main>
